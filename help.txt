@@ -1,0 +1,14 @@
+--------------- Swagger ------------------------
+To open the swagger use :
+First run the project and then hit below URL
+http://localhost:8080/swagger-ui.html
+------------------------------------------------
+
+--------------- server -------------------------
+Application is running on server port no : 8080
+------------------------------------------------
+
+-------------- Mail Secure ---------------------
+Access the URL:
+https://www.google.com/settings/security/lesssecureapps
+------------------------------------------------
